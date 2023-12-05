@@ -1,6 +1,6 @@
 # Info personal
 - Juan Sebastian Herrera Rodriguez
-- 312394023
+- 3123914023
 - sebastianherrera.2015@gmail.com
 
 # Habilidades
